@@ -1,4 +1,4 @@
-package uz.kaizen.controller;
+package uz.kaizen.securityApp.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
